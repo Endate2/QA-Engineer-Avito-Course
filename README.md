@@ -5,3 +5,6 @@
 
 
 [Домашнее задание 2](https://github.com/Endate2/QA-Engineer-Avito-Course/blob/main/HOMEWORKS/SECOND.md)
+
+
+[Домашнее задание 3](https://github.com/Endate2/module3-Endate2-feature-add-ui-tests)
